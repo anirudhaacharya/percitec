@@ -32,16 +32,16 @@ export function SiteFooter() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Corporate Address</h3>
             <address className="not-italic space-y-1 text-sm">
-              <p>Percitec Machines Pvt. Ltd.</p>
+              <p>Precitec Machines Pvt. Ltd.</p>
               <p>Industrial Estate, Sector 12</p>
               <p>Manufacturing Hub, 560001</p>
               <p className="mt-3">
                 <strong>Email:</strong>{" "}
                 <a
-                  href="mailto:info@percitec.com"
+                  href="mailto:info@precitec.com"
                   className="hover:text-white transition-colors"
                 >
-                  info@percitec.com
+                  info@precitec.com
                 </a>
               </p>
               <p>
